@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001](https://github.com/RahulRawat24082001)
 
-- 💬 Ask me about **Machine Learning & Data Analytics**
+- 💬 Ask me about **Neural Networks & Data Science**
 
 - 📫 How to reach me **rahulrawat295@gmail.com**
 
