@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine learning & Deep learning projects**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Deep learning**
+- 🌱 I’m currently learning **Artificial Intelligence Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001](https://github.com/RahulRawat24082001)
 
