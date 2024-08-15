@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001](https://github.com/RahulRawat24082001)
+- 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001?tab=repositories](https://github.com/RahulRawat24082001?tab=repositories)
 
 - 💬 Ask me about **Neural Networks & Data Science**
 
