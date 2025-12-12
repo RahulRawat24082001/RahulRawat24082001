@@ -10,6 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001?tab=repositories](https://github.com/RahulRawat24082001?tab=repositories)
 
+- 👨‍💻 My Hugging Face Spaces [Hugging Face Spaces](https://huggingface.co/RahulRawat2001)
+
+
 - 💬 Ask me about **Neural Networks & Data Science**
 
 - 📫 How to reach me **rahulrawat295@gmail.com**
