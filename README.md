@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RahulRawat24082001?tab=repositories](https://github.com/RahulRawat24082001?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/RahulRawat24082001?tab=repositories)
 
-- 👨‍💻 My Hugging Face Spaces [Hugging Face Spaces](https://huggingface.co/RahulRawat2001)
+- 👨‍💻 My Hugging Face Spaces [Hugging Face](https://huggingface.co/RahulRawat2001)
 
 
 - 💬 Ask me about **Neural Networks & Data Science**
