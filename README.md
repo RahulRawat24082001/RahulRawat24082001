@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulrawat24082001&label=Profile%20views&color=0e75b6&style=flat" alt="rahulrawat24082001" /> </p>
 
-- 🔭 I’m currently working on **Machine learning & Deep learning projects**
+- 🔭 I’m currently working as **AI Developer**
 
-- 🌱 I’m currently learning **Artificial Intelligence Development**
+- 🌱 I’m currently learning **Image and Video Generation**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/RahulRawat24082001?tab=repositories)
 
